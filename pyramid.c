@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("kartikey tiwari roll no -20\n");
     int n;
     printf("Enter an odd number (>3): ");
     if (scanf("%d", &n) != 1) return 0;  
